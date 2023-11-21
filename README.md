@@ -1,4 +1,5 @@
 # COMP1786_AndroidStudio
+My name is : Tran Bao Nguyen id :GCD201888 (tn9474i@gre.ac.uk)
 Overview
 Welcome to the Hiker's App! This Android mobile application is developed using Android Studio and is designed to enhance the hiking experience by allowing users to manage their hikes and record observations along the way.
 Features
